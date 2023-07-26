@@ -25,3 +25,13 @@ Offsets for KFD
   - [iOS 16.0](https://raw.githubusercontent.com/Lrdsnow/kfd_offsets/main/iPhone14%2C5/iOS_16.0/dynamic_info.h)
 - iPhone XR (iPhone11,8)
   - [iOS 16.3](https://raw.githubusercontent.com/Lrdsnow/kfd_offsets/main/iPhone11%2C8/iOS_16.3/dynamic_info.h)
+
+### Device Status:
+- iPhone 14 Pro Max
+Works by default
+- iPhone 14 Pro
+Works with Offsets (Verified)
+- iPhone 13
+Kernel Panics
+- iPhone XR
+Kernel Panics
