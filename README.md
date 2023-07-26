@@ -28,10 +28,10 @@ Offsets for KFD
 
 ### Device Status:
 - iPhone 14 Pro Max
-Works by default
+  - Works by default
 - iPhone 14 Pro
-Works with Offsets (Verified)
+  - Works with Offsets (Verified)
 - iPhone 13
-Kernel Panics
+  - Kernel Panics
 - iPhone XR
-Kernel Panics
+  - Kernel Panics
