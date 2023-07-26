@@ -7,6 +7,8 @@ Offsets for KFD
 - replace `kfd/libkfd/info/dynamic_info.h` with the file you just downloaded and Build!
 
 ### Offsets:
+- iPhone 14 Pro (iPhone15,2)
+  - [iOS 16.6 beta 1](https://raw.githubusercontent.com/Lrdsnow/kfd_offsets/main/iPhone15%2C2/iOS_16.6b1/dynamic_info.h)
 - iPhone 13 (iPhone14,5)
   - [iOS 16.6 beta 1](https://raw.githubusercontent.com/Lrdsnow/kfd_offsets/main/iPhone14%2C5/iOS_16.6b1/dynamic_info.h)
   - [iOS 16.5](https://raw.githubusercontent.com/Lrdsnow/kfd_offsets/main/iPhone14%2C5/iOS_16.5/dynamic_info.h)
