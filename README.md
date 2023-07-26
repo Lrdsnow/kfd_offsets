@@ -8,19 +8,18 @@ Offsets for KFD
 
 ### Offsets:
 - iPhone 13 (iPhone14,5)
-  - iOS 16.6 beta 1
-  - iOS 16.5
-  - iOS 16.4.1
-  - iOS 16.4
-  - iOS 16.4
-  - iOS 16.3.1
-  - iOS 16.3
-  - iOS 16.2
-  - iOS 16.1.2
-  - iOS 16.1.1
-  - iOS 16.1
-  - iOS 16.0.3
-  - iOS 16.0.2
-  - iOS 16.0
+  - [iOS 16.6 beta 1](https://raw.githubusercontent.com/Lrdsnow/kfd_offsets/main/iPhone14%2C5/iOS_16.6b1/dynamic_info.h)
+  - [iOS 16.5](https://raw.githubusercontent.com/Lrdsnow/kfd_offsets/main/iPhone14%2C5/iOS_16.5/dynamic_info.h)
+  - [iOS 16.4.1](https://raw.githubusercontent.com/Lrdsnow/kfd_offsets/main/iPhone14%2C5/iOS_16.4.1/dynamic_info.h)
+  - [iOS 16.4](https://raw.githubusercontent.com/Lrdsnow/kfd_offsets/main/iPhone14%2C5/iOS_16.4/dynamic_info.h)
+  - [iOS 16.3.1](https://raw.githubusercontent.com/Lrdsnow/kfd_offsets/main/iPhone14%2C5/iOS_16.3.1/dynamic_info.h)
+  - [iOS 16.3](https://raw.githubusercontent.com/Lrdsnow/kfd_offsets/main/iPhone14%2C5/iOS_16.3/dynamic_info.h)
+  - [iOS 16.2](https://raw.githubusercontent.com/Lrdsnow/kfd_offsets/main/iPhone14%2C5/iOS_16.2/dynamic_info.h)
+  - [iOS 16.1.2](https://raw.githubusercontent.com/Lrdsnow/kfd_offsets/main/iPhone14%2C5/iOS_16.1.2/dynamic_info.h)
+  - [iOS 16.1.1](https://raw.githubusercontent.com/Lrdsnow/kfd_offsets/main/iPhone14%2C5/iOS_16.1.1/dynamic_info.h)
+  - [iOS 16.1](https://raw.githubusercontent.com/Lrdsnow/kfd_offsets/main/iPhone14%2C5/iOS_16.1/dynamic_info.h)
+  - [iOS 16.0.3](https://raw.githubusercontent.com/Lrdsnow/kfd_offsets/main/iPhone14%2C5/iOS_16.0.3/dynamic_info.h)
+  - [iOS 16.0.2](https://raw.githubusercontent.com/Lrdsnow/kfd_offsets/main/iPhone14%2C5/iOS_16.0.2/dynamic_info.h)
+  - [iOS 16.0](https://raw.githubusercontent.com/Lrdsnow/kfd_offsets/main/iPhone14%2C5/iOS_16.0/dynamic_info.h)
 - iPhone XR (iPhone11,8)
-  - iOS 16.3
+  - [iOS 16.3](](https://raw.githubusercontent.com/Lrdsnow/kfd_offsets/main/iPhone11%2C8/iOS_16.3/dynamic_info.h))
