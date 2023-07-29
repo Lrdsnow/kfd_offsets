@@ -10,7 +10,7 @@ Thanks to [@P5-2005](https://github.com/P5-2005) for a lot of the offsets
 - in `kfd/libkfd/info/static_info.h` change 17ull to 25ull if not iPhone 14
 - Build!
 
-### Offsets:
+### iPhone Offsets:
 - iPhone 14 Pro Max (iPhone15,3)
   - Works (Shouldnt Need Offset Change), [Offsets for iOS 16.0-16.5](https://github.com/Lrdsnow/kfd_offsets/tree/main/iPhone15%2C3)
 - iPhone 14 Pro (iPhone15,2)
@@ -55,3 +55,8 @@ Thanks to [@P5-2005](https://github.com/P5-2005) for a lot of the offsets
   - Untested, [Offsets for iOS 16.0-16.5](https://github.com/Lrdsnow/kfd_offsets/tree/main/iPhone11%2C2)
 - iPhone X (iPhone10,6)
   - Works on [iOS16.6b1](https://github.com/Lrdsnow/kfd_offsets/tree/main/iPhone10%2C6/iOS_16.6b1) with [lrdsnow/kfd (arm64 branch)](https://github.com/Lrdsnow/kfd/tree/arm64)
+
+### iPad Offsets:
+
+- iPad Pro 11 (iPad14,4)
+  - Untested, [Offsets for iOS 16.4.1](https://github.com/Lrdsnow/kfd_offsets/tree/main/iPad14%2C4)
