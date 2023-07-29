@@ -12,7 +12,7 @@ Thanks to [@P5-2005](https://github.com/P5-2005) for a lot of the offsets
 
 ### iPhone Offsets:
 - iPhone 14 Pro Max (iPhone15,3)
-  - Works (Shouldnt Need Offset Change), [Offsets for iOS 16.0-16.5](https://github.com/Lrdsnow/kfd_offsets/tree/main/iPhone15%2C3)
+  - Works (Shouldnt Need Offset Change if on default kfd), [Offsets for iOS 16.0-16.5](https://github.com/Lrdsnow/kfd_offsets/tree/main/iPhone15%2C3)
 - iPhone 14 Pro (iPhone15,2)
   - Works, [Offsets for iOS 16.0-16.6b1](https://github.com/Lrdsnow/kfd_offsets/tree/main/iPhone15%2C2)
 - iPhone 14 Plus (iPhone14,8)
