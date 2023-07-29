@@ -10,7 +10,7 @@ Thanks to [@P5-2005](https://github.com/P5-2005) for a lot of the offsets
 - in `kfd/libkfd/info/static_info.h` change t1sz_boot to 17ull if iPhone 14 or 25ull if not iPhone 14
 - Build!
 
-- If you have any issues try messaging me on discord, my username is lrdsnow
+- If you have any issues try messaging me on discord, my username is just as it is on github, lrdsnow
 
 ### iPhone Offsets:
 - iPhone 14 Pro Max (iPhone15,3)
@@ -60,5 +60,8 @@ Thanks to [@P5-2005](https://github.com/P5-2005) for a lot of the offsets
 
 ### iPad Offsets:
 
-- iPad Pro 11 (iPad14,4)
+- iPad Pro 11 4th gen (iPad14,4)
   - Untested, [Offsets for iOS 16.4.1](https://github.com/Lrdsnow/kfd_offsets/tree/main/iPad14%2C4)
+- iPad Pro 11 3rd gen (iPad13,6)
+  - Untested, [Offsets for iOS 16.6b1](https://github.com/Lrdsnow/kfd_offsets/tree/main/iPad13%2C6)
+
