@@ -1,16 +1,23 @@
 # kfd_offsets
 Offsets for KFD
 
-Thanks to [@P5-2005](https://github.com/P5-2005) for a lot of the offsets
+If you have any issues try messaging me on discord, my username is just as it is on github, lrdsnow
 
-## How to use?
+Thanks to [@P5-2005](https://github.com/P5-2005) for a quite a bit of the offsets
+
+## How to use? (arm64e)
 - Run `git clone -b kern-version https://github.com/felix-pb/kfd.git` (or `git clone -b hidedock_hidehomebar https://github.com/lrdsnow/kfd.git` for a simplified kfd)
 - Get the `dynamic_info.h` from this repo for your device and its version
 - replace `kfd/libkfd/info/dynamic_info.h` with the file you just downloaded
 - in `kfd/libkfd/info/static_info.h` change t1sz_boot to 17ull if iPhone 14 or 25ull if not iPhone 14
 - Build!
 
-- If you have any issues try messaging me on discord, my username is just as it is on github, lrdsnow
+## How to use? (arm64)
+Warning: kfd doesnt work well on arm64 atm and your offsets have to be gotten manually
+- Run `git clone -b arm64 https://github.com/lrdsnow/kfd.git`
+- Get the `dynamic_info.h` from this repo for your device and its version or make one manually
+- replace `kfd/libkfd/info/dynamic_info.h` with the file you just downloaded/made
+- Build!
 
 ### iPhone Offsets:
 - iPhone 14 Pro Max (iPhone15,3)
@@ -55,7 +62,7 @@ Thanks to [@P5-2005](https://github.com/P5-2005) for a lot of the offsets
   - Untested, [Offsets for iOS 16.0-16.5](https://github.com/Lrdsnow/kfd_offsets/tree/main/iPhone11%2C4)
 - iPhone XS (iPhone11,2)
   - Untested, [Offsets for iOS 16.0-16.5](https://github.com/Lrdsnow/kfd_offsets/tree/main/iPhone11%2C2)
-- iPhone X (iPhone10,6)
+- iPhone X GSM (iPhone10,6)
   - Works on [iOS16.6b1](https://github.com/Lrdsnow/kfd_offsets/tree/main/iPhone10%2C6/iOS_16.6b1) with [lrdsnow/kfd (arm64 branch)](https://github.com/Lrdsnow/kfd/tree/arm64)
 
 ### iPad Offsets:
