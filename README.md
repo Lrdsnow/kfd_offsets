@@ -47,7 +47,7 @@ Thanks to [@P5-2005](https://github.com/P5-2005) for a lot of the offsets
   - Untested, [Offsets for iOS 16.0-16.5](https://github.com/Lrdsnow/kfd_offsets/tree/main/iPhone12%2C1)
 - iPhone XR (iPhone11,8)
   - Untested, [Offsets for iOS 16.0-16.5](https://github.com/Lrdsnow/kfd_offsets/tree/main/iPhone11%2C8)
-- iPhone XS Max (China) (iPhone11,6)
+- iPhone XS Max (iPhone11,6)
   - Untested, [Offsets for iOS 16.0-16.5](https://github.com/Lrdsnow/kfd_offsets/tree/main/iPhone11%2C6)
 - iPhone XS Max (China) (iPhone11,4)
   - Untested, [Offsets for iOS 16.0-16.5](https://github.com/Lrdsnow/kfd_offsets/tree/main/iPhone11%2C4)
