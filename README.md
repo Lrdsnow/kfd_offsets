@@ -43,7 +43,7 @@ Warning: kfd doesnt work well on arm64 atm and your offsets have to be gotten ma
 - iPhone 12 Pro (iPhone13,3)
   - Untested or Kernel Panic, [Offsets for iOS 16.0-16.5](https://github.com/Lrdsnow/kfd_offsets/tree/main/iPhone13%2C3)
 - iPhone 12 (iPhone13,2)
-  - Untested or Kernel Panic, [Offsets for iOS 16.0-16.6b1](https://github.com/Lrdsnow/kfd_offsets/tree/main/iPhone13%2C2)
+  - Works on 16.4, Rest Untested or Kernel Panic, [Offsets for iOS 16.0-16.6b1](https://github.com/Lrdsnow/kfd_offsets/tree/main/iPhone13%2C2)
 - iPhone 12 mini (iPhone13,1)
   - Works on 16.6b1, Rest Untested or Kernel Panic, [Offsets for iOS 16.0-16.6b1](https://github.com/Lrdsnow/kfd_offsets/tree/main/iPhone13%2C1)
 - iPhone SE (2020) (iPhone12,8)
