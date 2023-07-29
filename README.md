@@ -7,7 +7,7 @@ Thanks to [@P5-2005](https://github.com/P5-2005) for a lot of the offsets
 - Run `git clone -b kern-version https://github.com/felix-pb/kfd.git` (or `git clone -b hidedock_hidehomebar https://github.com/lrdsnow/kfd.git` for a simplified kfd)
 - Get the `dynamic_info.h` from this repo for your device and its version
 - replace `kfd/libkfd/info/dynamic_info.h` with the file you just downloaded
-- in `kfd/libkfd/info/static_info.h` change 17ull to 25ull if not iPhone 14
+- in `kfd/libkfd/info/static_info.h` change t1sz_boot to 17ull if iPhone 14 or 25ull if not iPhone 14
 - Build!
 
 ### iPhone Offsets:
