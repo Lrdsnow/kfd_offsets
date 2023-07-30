@@ -71,4 +71,6 @@ Warning: kfd doesnt work well on arm64 atm and your offsets have to be gotten ma
   - Untested, [Offsets for iOS 16.4.1](https://github.com/Lrdsnow/kfd_offsets/tree/main/iPad14%2C4)
 - iPad Pro 11 3rd gen (iPad13,6)
   - Untested, [Offsets for iOS 16.6b1](https://github.com/Lrdsnow/kfd_offsets/tree/main/iPad13%2C6)
+- iPad Air 5 (iPad13,17)
+  - Untested, [Offsets for iOS 16.6b1](https://github.com/Lrdsnow/kfd_offsets/tree/main/iPad13%2C17)
 
