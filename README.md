@@ -74,3 +74,14 @@ Warning: kfd doesnt work well on arm64 atm and your offsets have to be gotten ma
 - iPad Air 5 (iPad13,17)
   - Untested, [Offsets for iOS 16.6b1](https://github.com/Lrdsnow/kfd_offsets/tree/main/iPad13%2C17)
 
+### Tested Devices:
+iPhone 14 Pro Max 16.0-16.5\
+iPhone 14 Pro 16.6b1\
+iPhone 13 16.4.1 & 16.6b1\
+iPhone 12 16.4 & 16.6b1\
+iPhone 12 mini 16.6b1\
+iPhone 11 Pro 16.6b1\
+iPhone XR 16.6b1\
+iPhone XS 16.6b1\
+iPhone X 16.6b1
+
