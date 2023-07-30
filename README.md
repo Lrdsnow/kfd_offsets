@@ -83,5 +83,5 @@ iPhone 12 mini 16.6b1\
 iPhone 11 Pro 16.6b1\
 iPhone XR 16.6b1\
 iPhone XS 16.6b1\
-iPhone X 16.6b1\
+iPhone X 16.6b1
 
