@@ -21,7 +21,7 @@ Warning: kfd doesnt work well on arm64 atm and your offsets have to be gotten ma
 
 ### iPhone Offsets:
 - iPhone 14 Pro Max (iPhone15,3)
-  - Works (Shouldnt Need Offset Change if on default kfd), [Offsets for iOS 16.0-16.5](https://github.com/Lrdsnow/kfd_offsets/tree/main/iPhone15%2C3)
+  - Works (Shouldnt Need Offset Change if on default kfd), [Offsets for iOS 16.0-16.6b1](https://github.com/Lrdsnow/kfd_offsets/tree/main/iPhone15%2C3)
 - iPhone 14 Pro (iPhone15,2)
   - Works, [Offsets for iOS 16.0-16.6b1](https://github.com/Lrdsnow/kfd_offsets/tree/main/iPhone15%2C2)
 - iPhone 14 Plus (iPhone14,8)
@@ -75,7 +75,7 @@ Warning: kfd doesnt work well on arm64 atm and your offsets have to be gotten ma
   - Untested, [Offsets for iOS 16.6b1](https://github.com/Lrdsnow/kfd_offsets/tree/main/iPad13%2C17)
 
 ### Tested Devices:
-iPhone 14 Pro Max 16.0-16.5\
+iPhone 14 Pro Max 16.0-16.6b1\
 iPhone 14 Pro 16.6b1\
 iPhone 13 16.4.1 & 16.6b1\
 iPhone 12 16.4 & 16.6b1\
